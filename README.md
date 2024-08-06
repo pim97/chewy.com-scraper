@@ -8,15 +8,15 @@ The Chewy.com Product Scraper is a powerful tool designed to extract detailed in
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/pim97/chewy-scraper.git`
+1. Clone the repository: `git clone https://github.com/pim97/chewy.com-scraper.git`
 2. Install the necessary dependencies: `npm install`
 
 ## Usage
 
-1. Customize the specific details in the script file (`product.js`): 
+1. Customize the specific details in the script file (`scrape.js`): 
    - SCRAPPEY_API_KEY: Your Scrappey API key, available at https://app.scrappey.com/#/ to bypass security measures
    - PROXY: Your optional proxy information
-2. Run the script: `node product.js`
+2. Run the script: `node scrape.js`
    
 
 ## Contributing
